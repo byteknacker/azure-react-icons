@@ -1,7 +1,7 @@
 {
-  "name": "azure-react-icons",
-  "version": "0.10.1",
-  "description": "React Components for Azure Cloud Icons",
+  "name": "react-az-icons",
+  "version": "0.1.0",
+  "description": "React Components for Azure Cloud Icons with Resource Type Mapping",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -32,17 +32,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/orangenet/azure-react-icons.git"
+    "url": "git+https://github.com/byteknacker/react-az-icons.git"
   },
   "keywords": [
     "react",
     "icons",
-    "azure"
+    "azure",
+    "mapping",
+    "resource"
   ],
-  "author": "Rinor Maloku",
+  "author": "Johannes Wu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/orangenet/azure-react-icons/issues"
+    "url": "https://github.com/byteknacker/react-az-icons/issues"
   },
-  "homepage": "https://github.com/orangenet/azure-react-icons#readme"
+  "homepage": "https://github.com/byteknacker/react-az-icons#readme"
 }

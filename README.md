@@ -3,6 +3,9 @@
 
 # Azure React Icons
 
+Kudos to Rinor Maloku and his original npm package, [azure-react-icons](https://github.com/orangenet/azure-react-icons/) on which this package is based.
+
+
 [![npm][npm-image]][npm-url]
 ![types][types-image]
 
