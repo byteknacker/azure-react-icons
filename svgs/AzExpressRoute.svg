@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,21 +9,21 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
+   version="1.1"
+   id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 50.799999 31.299999"
-   enable-background="new 0 0 152 117.5"
+   width="50"
+   height="30.6"
+   viewBox="0 0 50 30.6"
+   enable-background="new 0 0 50 50"
    xml:space="preserve"
-   id="svg22"
-   sodipodi:docname="AzExpressRoute.svg"
-   width="50.799999"
-   height="31.299999"
+   sodipodi:docname="AzExpressRouteColor.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
-   id="metadata28"><rdf:RDF><cc:Work
+   id="metadata19"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs26" /><sodipodi:namedview
+   id="defs17" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -34,75 +34,51 @@
    inkscape:pageshadow="2"
    inkscape:window-width="713"
    inkscape:window-height="543"
-   id="namedview24"
+   id="namedview15"
    showgrid="false"
-   inkscape:zoom="2.0085106"
-   inkscape:cx="25.4"
-   inkscape:cy="15.65"
+   inkscape:zoom="4.72"
+   inkscape:cx="25"
+   inkscape:cy="15.3"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg22" />
-<g
-   id="Layer_1"
-   transform="translate(-50.6,-43.1)">
-	<g
-   id="Azure">
-	</g>
-	<g
-   id="BizTalk_Services"
-   transform="translate(37.3575,-2500.2)">
-	</g>
-</g>
-<g
-   id="paths"
-   transform="translate(-50.6,-43.1)">
-	<g
-   id="Access_control">
-	</g>
-	<g
-   id="Azure_active_directory">
-	</g>
-	<g
-   id="API_Management">
-	</g>
-	<g
-   id="Azure_automation">
-	</g>
-	<g
-   id="Azure_SQL_database">
-	</g>
-	<g
-   id="Azure_subscription">
-	</g>
-	<g
-   id="Backup_service">
-	</g>
-	<g
-   id="Bitbucket_code_source">
-	</g>
-	<g
-   id="Azure_cache">
-	</g>
-	<g
-   id="Content_delivery_network__x28_CDN_x29_">
-	</g>
-	<g
-   id="Cloud_service">
-	</g>
-	<g
-   id="CodePlex">
-	</g>
-	<g
-   id="Dropbox_code_source">
-	</g>
-	<g
-   id="Express_route">
-		<path
-   d="m 95.8,62.9 c -0.9,0 -1.7,0.2 -2.4,0.5 L 81.2,51.2 c 0.3,-0.7 0.5,-1.5 0.5,-2.4 0,-3.2 -2.6,-5.7 -5.7,-5.7 -3.1,0 -5.7,2.6 -5.7,5.7 0,0.9 0.2,1.7 0.5,2.4 L 58.7,63.5 C 58,63.2 57.2,63 56.3,63 c -3.2,0 -5.7,2.6 -5.7,5.7 0,3.1 2.6,5.7 5.7,5.7 2.5,0 4.5,-1.6 5.3,-3.7 h 28.8 c 0.8,2.1 2.9,3.7 5.3,3.7 3.2,0 5.7,-2.6 5.7,-5.7 0,-3.1 -2.5,-5.8 -5.6,-5.8 z m -39.6,7.6 c -1,0 -1.9,-0.8 -1.9,-1.9 0,-1 0.8,-1.9 1.9,-1.9 1,0 1.9,0.8 1.9,1.9 0,1.1 -0.8,1.9 -1.9,1.9 z M 76,47 c 1,0 1.9,0.8 1.9,1.9 0,1 -0.8,1.9 -1.9,1.9 -1,0 -1.9,-0.8 -1.9,-1.9 C 74.2,47.8 75,47 76,47 Z M 90.4,66.7 H 61.6 C 61.5,66.5 61.5,66.4 61.4,66.3 L 73.6,54 c 0.7,0.3 1.5,0.5 2.4,0.5 0.9,0 1.7,-0.2 2.4,-0.5 l 12.2,12.2 c -0.1,0.1 -0.2,0.3 -0.2,0.5 z m 5.4,3.7 c -1,0 -1.9,-0.8 -1.9,-1.9 0,-1 0.8,-1.9 1.9,-1.9 1,0 1.9,0.8 1.9,1.9 -0.1,1.1 -0.9,1.9 -1.9,1.9 z"
-   id="path18"
+   inkscape:current-layer="Layer_1" />
+<rect
+   x="9.8000002"
+   y="23.099998"
+   width="31"
+   height="3.8"
+   id="rect2"
+   style="fill:#68217a" />
+<rect
+   x="-11.053578"
+   y="19.708536"
+   transform="rotate(-45)"
+   width="21.199797"
+   height="3.7999635"
+   id="rect4"
+   style="fill:#68217a;stroke-width:0.9999904" />
+<rect
+   x="25.289461"
+   y="-15.693048"
+   transform="rotate(45)"
+   width="21.199797"
+   height="3.7999635"
+   id="rect6"
+   style="fill:#68217a;stroke-width:0.9999904" />
+<path
+   d="m 25,0 c -3.1,0 -5.6,2.5 -5.6,5.6 0,3.1 2.5,5.6 5.6,5.6 3.1,0 5.6,-2.5 5.6,-5.6 C 30.6,2.5 28.1,0 25,0 Z m 0,7.4 c -1,0 -1.8,-0.8 -1.8,-1.8 0,-1 0.8,-1.8 1.8,-1.8 1,0 1.8,0.8 1.8,1.8 0,1 -0.8,1.8 -1.8,1.8 z"
+   id="path8"
    inkscape:connector-curvature="0"
-   style="fill:#0078d7" />
-	</g>
-</g>
+   style="fill:#7fba00" />
+<path
+   d="M 5.6,19.4 C 2.5,19.4 0,21.9 0,25 c 0,3.1 2.5,5.6 5.6,5.6 3.1,0 5.6,-2.5 5.6,-5.6 0,-3.1 -2.5,-5.6 -5.6,-5.6 z m 0,7.4 c -1,0 -1.8,-0.8 -1.8,-1.8 0,-1 0.8,-1.8 1.8,-1.8 1,0 1.8,0.8 1.8,1.8 0,1 -0.8,1.8 -1.8,1.8 z"
+   id="path10"
+   inkscape:connector-curvature="0"
+   style="fill:#7fba00" />
+<path
+   d="m 44.4,19.4 c -3.1,0 -5.6,2.5 -5.6,5.6 0,3.1 2.5,5.6 5.6,5.6 3.1,0 5.6,-2.5 5.6,-5.6 0,-3.1 -2.5,-5.6 -5.6,-5.6 z m 0,7.4 c -1,0 -1.8,-0.8 -1.8,-1.8 0,-1 0.8,-1.8 1.8,-1.8 1,0 1.8,0.8 1.8,1.8 0,1 -0.8,1.8 -1.8,1.8 z"
+   id="path12"
+   inkscape:connector-curvature="0"
+   style="fill:#7fba00" />
 </svg>

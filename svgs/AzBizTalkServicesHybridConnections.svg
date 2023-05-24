@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,21 +9,21 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
+   version="1.1"
+   id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 46.700001 49"
-   enable-background="new 0 0 152 117.5"
+   width="47"
+   height="50"
+   viewBox="0 0 47 50"
+   enable-background="new 0 0 50 50"
    xml:space="preserve"
-   id="svg44"
-   sodipodi:docname="AzBizTalkServicesHybridConnections.svg"
-   width="46.700001"
-   height="49"
+   sodipodi:docname="AzBizTalkServicesHybridConnectionsColor.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
-   id="metadata50"><rdf:RDF><cc:Work
+   id="metadata19"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs48" /><sodipodi:namedview
+   id="defs17" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -34,131 +34,45 @@
    inkscape:pageshadow="2"
    inkscape:window-width="713"
    inkscape:window-height="543"
-   id="namedview46"
+   id="namedview15"
    showgrid="false"
-   inkscape:zoom="2.0085106"
-   inkscape:cx="23.2"
-   inkscape:cy="24.25"
+   inkscape:zoom="4.72"
+   inkscape:cx="23.5"
+   inkscape:cy="25"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg44" />
-<g
-   id="Layer_1"
-   transform="translate(-52.8,-34)">
-	<g
-   id="Azure">
-	</g>
-	<g
-   id="BizTalk_Services"
-   transform="translate(37.3575,-2500.2)">
-	</g>
-</g>
-<g
-   id="paths"
-   transform="translate(-52.8,-34)">
-	<g
-   id="Access_control">
-	</g>
-	<g
-   id="Azure_active_directory">
-	</g>
-	<g
-   id="API_Management">
-	</g>
-	<g
-   id="Azure_automation">
-	</g>
-	<g
-   id="Azure_SQL_database">
-	</g>
-	<g
-   id="Azure_subscription">
-	</g>
-	<g
-   id="Backup_service">
-	</g>
-	<g
-   id="Bitbucket_code_source">
-	</g>
-	<g
-   id="Azure_cache">
-	</g>
-	<g
-   id="Content_delivery_network__x28_CDN_x29_">
-	</g>
-	<g
-   id="Cloud_service">
-	</g>
-	<g
-   id="CodePlex">
-	</g>
-	<g
-   id="Dropbox_code_source">
-	</g>
-	<g
-   id="Express_route">
-	</g>
-	<g
-   id="Git_repository">
-	</g>
-	<g
-   id="GitHub_code">
-	</g>
-	<g
-   id="HD_Insight">
-	</g>
-	<g
-   id="Health_monitoring">
-	</g>
-	<g
-   id="Healthy">
-	</g>
-	<g
-   id="BizTalk_hybrid_connection">
-		<g
-   id="g40">
-			<g
-   id="g30">
-				<path
-   d="m 83.3,45.2 c 0,0.1 0,0.2 0,0.3 0,0 0,0 0,-0.1 0,-0.1 0,-0.2 0,-0.2 z"
-   id="path24"
+   inkscape:current-layer="Layer_1" />
+<circle
+   cx="22.799999"
+   cy="11.1"
+   r="4"
+   id="circle2"
+   style="fill:#7fba00" />
+<circle
+   cx="23.1"
+   cy="38.900002"
+   r="4"
+   id="circle4"
+   style="fill:#7fba00" />
+<path
+   d="M 13,40.9 H 11.1 C 5,40.9 0,35.9 0,29.8 V 20.1 C 0.1,14.3 5,9.3 11,9 h 3 c 1,0 1.8,0.8 1.8,1.8 0,1 -0.8,1.8 -1.8,1.8 h -2.9 c -4,0.2 -7.4,3.5 -7.4,7.4 v 9.7 c 0,4.1 3.3,7.4 7.4,7.4 H 13 c 1,0 1.8,0.8 1.8,1.8 0,1.2 -0.8,2 -1.8,2 z"
+   id="path6"
    inkscape:connector-curvature="0"
-   style="fill:#0078d7" />
-				<ellipse
-   cx="75.800003"
-   cy="44.900002"
-   rx="4"
-   ry="4.0999999"
-   id="ellipse26"
-   style="fill:#0078d7" />
-				<path
-   d="m 99.5,52.8 v 12.8 c 0,2.2 -0.9,4.3 -2.7,5.9 -1.7,1.5 -3.9,2.4 -6.3,2.4 h -6 c -0.9,0 -1.6,-0.7 -1.6,-1.6 0,-0.9 0.7,-1.6 1.6,-1.6 h 6 c 1.6,0 3,-0.5 4.1,-1.5 1,-0.9 1.6,-2.2 1.6,-3.5 V 52.8 C 96.2,49.6 94,47 91.2,47 h -5 c -0.4,2.1 -1.4,4 -2.9,5.5 -2,2 -4.7,3.2 -7.6,3.2 -2.9,0 -5.6,-1.1 -7.6,-3.2 -0.6,-0.6 -0.6,-1.7 0,-2.3 0.6,-0.6 1.7,-0.6 2.3,0 1.4,1.4 3.3,2.2 5.3,2.2 2,0 3.9,-0.8 5.3,-2.2 1.3,-1.3 2,-3 2.2,-4.8 0,-0.1 0,-0.2 0,-0.3 0,-0.1 0,-0.2 0,-0.3 0,-2 -0.8,-3.9 -2.2,-5.3 -1.4,-1.4 -3.3,-2.2 -5.3,-2.2 -2,0 -3.9,0.8 -5.3,2.2 -0.6,0.6 -1.7,0.6 -2.3,0 -0.6,-0.6 -0.6,-1.7 0,-2.3 2,-2 4.7,-3.2 7.6,-3.2 2.9,0 5.6,1.1 7.6,3.2 1.8,1.8 2.8,4.1 3.1,6.5 h 4.8 c 4.7,0.1 8.3,4.1 8.3,9.1 z"
-   id="path28"
+   style="fill:#59b4d9" />
+<path
+   d="M 35.9,40.9 H 32 c -1,0 -1.8,-0.8 -1.8,-1.8 0,-1 0.8,-1.8 1.8,-1.8 h 3.9 c 4.1,0 7.4,-3.3 7.4,-7.4 v -9.7 c 0,-4.1 -3.3,-7.4 -7.4,-7.4 H 33 C 32,12.8 31.2,12 31.2,11 31.2,10 32,9.2 33,9.2 h 2.9 C 42,9.2 47,14.2 47,20.3 V 30 c 0,6 -5,10.9 -11.1,10.9 z"
+   id="path8"
    inkscape:connector-curvature="0"
-   style="fill:#0078d7" />
-			</g>
-			<g
-   id="g38">
-				<path
-   d="m 69,71.9 c 0,-0.1 0,-0.2 0,-0.3 0,0 0,0 0,0.1 0,0.1 0,0.2 0,0.2 z"
-   id="path32"
+   style="fill:#804998" />
+<path
+   d="m 22.6,22.2 c -2.8,0 -5.7,-1.1 -7.8,-3.2 -0.7,-0.7 -0.7,-1.9 0,-2.6 0.7,-0.7 1.9,-0.7 2.6,0 2.9,2.9 7.6,2.9 10.4,0 C 30.7,13.5 30.7,8.8 27.8,6 26.4,4.6 24.5,3.8 22.6,3.8 20.6,3.8 18.8,4.6 17.4,6 16.7,6.7 15.5,6.7 14.8,6 14.1,5.3 14.1,4.1 14.8,3.4 16.9,1.2 19.7,0 22.6,0 c 3,0 5.7,1.2 7.8,3.2 4.3,4.3 4.3,11.4 0,15.7 -2.1,2.2 -4.9,3.3 -7.8,3.3 z"
+   id="path10"
    inkscape:connector-curvature="0"
-   style="fill:#0078d7" />
-				<ellipse
-   cx="76.5"
-   cy="72.199997"
-   rx="4"
-   ry="4.0999999"
-   id="ellipse34"
-   style="fill:#0078d7" />
-				<path
-   d="M 52.8,64.3 V 51.5 c 0,-2.2 0.9,-4.3 2.7,-5.9 1.7,-1.5 3.9,-2.4 6.3,-2.4 h 6 c 0.9,0 1.6,0.7 1.6,1.6 0,0.9 -0.7,1.6 -1.6,1.6 h -6 c -1.6,0 -3,0.5 -4.1,1.5 -1,0.9 -1.6,2.2 -1.6,3.5 v 12.8 c 0,3.2 2.2,5.8 5,5.8 h 5 c 0.4,-2.1 1.4,-4 2.9,-5.5 2,-2 4.7,-3.2 7.6,-3.2 2.9,0 5.6,1.1 7.6,3.2 0.6,0.6 0.6,1.7 0,2.3 -0.6,0.6 -1.7,0.6 -2.3,0 -1.4,-1.4 -3.3,-2.2 -5.3,-2.2 -2,0 -3.9,0.8 -5.3,2.2 -1.3,1.3 -2,3 -2.2,4.8 0,0.1 0,0.2 0,0.3 0,0.1 0,0.2 0,0.3 0,2 0.8,3.9 2.2,5.3 1.4,1.4 3.3,2.2 5.3,2.2 2,0 3.9,-0.8 5.3,-2.2 0.6,-0.6 1.7,-0.6 2.3,0 0.6,0.6 0.6,1.7 0,2.3 -2,2 -4.7,3.2 -7.6,3.2 C 73.7,83 71,81.9 69,79.8 67.2,78 66.2,75.7 65.9,73.3 H 61 c -4.5,0 -8.2,-4 -8.2,-9 z"
-   id="path36"
+   style="fill:#68217a" />
+<path
+   d="m 23,50 c -3,0 -5.7,-1.2 -7.8,-3.2 -4.3,-4.3 -4.3,-11.4 0,-15.7 2.1,-2.1 4.9,-3.2 7.8,-3.2 3,0 5.7,1.2 7.8,3.2 0.7,0.7 0.7,1.9 0,2.6 -0.7,0.7 -1.9,0.7 -2.6,0 -1.4,-1.4 -3.3,-2.2 -5.2,-2.2 -2,0 -3.8,0.8 -5.2,2.2 -2.9,2.9 -2.9,7.6 0,10.4 1.4,1.4 3.2,2.2 5.2,2.2 2,0 3.8,-0.8 5.2,-2.2 0.7,-0.7 1.9,-0.7 2.6,0 0.7,0.7 0.7,1.9 0,2.6 C 28.8,48.8 26,50 23,50 Z"
+   id="path12"
    inkscape:connector-curvature="0"
-   style="fill:#0078d7" />
-			</g>
-		</g>
-	</g>
-</g>
+   style="fill:#0072c6" />
 </svg>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,21 +9,21 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
+   version="1.1"
+   id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 40.799999 40.799999"
-   enable-background="new 0 0 152 117.5"
+   width="50"
+   height="50"
+   viewBox="0 0 50 50"
+   enable-background="new 0 0 50 50"
    xml:space="preserve"
-   id="svg53"
-   sodipodi:docname="AzRemoteApp.svg"
-   width="40.799999"
-   height="40.799999"
+   sodipodi:docname="AzRemoteAppColor.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
-   id="metadata59"><rdf:RDF><cc:Work
+   id="metadata13"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs57" /><sodipodi:namedview
+   id="defs11" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -34,162 +34,26 @@
    inkscape:pageshadow="2"
    inkscape:window-width="713"
    inkscape:window-height="543"
-   id="namedview55"
+   id="namedview9"
    showgrid="false"
-   inkscape:zoom="2.0085106"
-   inkscape:cx="20.4"
-   inkscape:cy="20.35"
+   inkscape:zoom="4.72"
+   inkscape:cx="25"
+   inkscape:cy="25"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg53" />
-<g
-   id="Layer_1"
-   transform="translate(-55.6,-38.3)">
-	<g
-   id="Azure">
-	</g>
-	<g
-   id="BizTalk_Services"
-   transform="translate(37.3575,-2500.2)">
-	</g>
-	<g
-   id="Key_Vault">
-	</g>
-	<g
-   id="Mobile_Engagement">
-	</g>
-	<g
-   id="Office_subscription">
-		<g
-   id="Office_subscription_1_">
-		</g>
-	</g>
-</g>
-<g
-   id="paths"
-   transform="translate(-55.6,-38.3)">
-	<g
-   id="Access_control">
-	</g>
-	<g
-   id="Azure_active_directory">
-	</g>
-	<g
-   id="API_Management">
-	</g>
-	<g
-   id="Azure_automation">
-	</g>
-	<g
-   id="Azure_SQL_database">
-	</g>
-	<g
-   id="Azure_subscription">
-	</g>
-	<g
-   id="Backup_service">
-	</g>
-	<g
-   id="Bitbucket_code_source">
-	</g>
-	<g
-   id="Azure_cache">
-	</g>
-	<g
-   id="Content_delivery_network__x28_CDN_x29_">
-	</g>
-	<g
-   id="Cloud_service">
-	</g>
-	<g
-   id="CodePlex">
-	</g>
-	<g
-   id="Dropbox_code_source">
-	</g>
-	<g
-   id="Express_route">
-	</g>
-	<g
-   id="Git_repository">
-	</g>
-	<g
-   id="GitHub_code">
-	</g>
-	<g
-   id="HD_Insight">
-	</g>
-	<g
-   id="Health_monitoring">
-	</g>
-	<g
-   id="Healthy">
-	</g>
-	<g
-   id="BizTalk_hybrid_connection">
-	</g>
-	<g
-   id="Hybrid_connection_manager_for_BizTalk_hybrid_connection">
-	</g>
-	<g
-   id="Hyper-V_recovery_manager">
-	</g>
-	<g
-   id="Machine_learning">
-	</g>
-	<g
-   id="Media_services">
-	</g>
-	<g
-   id="Microsoft_account">
-	</g>
-	<g
-   id="Mobile_services">
-	</g>
-	<g
-   id="Multi-factor_authentication">
-	</g>
-	<g
-   id="MySQL_database">
-	</g>
-	<g
-   id="Notification_hub">
-	</g>
-	<g
-   id="Notification_topic">
-	</g>
-	<g
-   id="Cloud_Office_365">
-	</g>
-	<g
-   id="Office_365">
-	</g>
-	<g
-   id="OS_image">
-	</g>
-	<g
-   id="Remote_app">
-		<g
-   id="g48">
-			<path
-   d="m 76,41 c 9.8,0 17.7,8 17.7,17.7 0,9.8 -8,17.7 -17.7,17.7 -9.8,0 -17.7,-8 -17.7,-17.7 C 58.3,48.9 66.2,41 76,41 m 0,-2.7 C 64.7,38.3 55.6,47.4 55.6,58.7 55.6,70 64.7,79.1 76,79.1 87.3,79.1 96.4,70 96.4,58.7 96.4,47.4 87.3,38.3 76,38.3 Z"
-   id="path42"
+   inkscape:current-layer="Layer_1" />
+<polygon
+   points="23.8,20.6 34.5,31.4 37.8,28.3 30.5,20.9 37.8,13.1 34.5,9.8 "
+   id="polygon2"
+   style="fill:#b8d432" />
+<polygon
+   points="12.2,36.9 15.5,40.2 26.2,29.4 15.5,18.6 12.2,22.2 19.5,29.5 "
+   id="polygon4"
+   style="fill:#b8d432" />
+<path
+   d="M 25,0 C 11.1,0 0,11.4 0,25 0,38.9 11.4,50 25,50 38.6,50 50,38.6 50,25 50,11.4 38.9,0 25,0 Z m 0,3.3 C 37,3.3 46.7,13 46.7,25 46.7,37 36.9,46.7 25,46.7 13.1,46.7 3.3,36.9 3.3,25 3.3,13.1 13,3.3 25,3.3 Z"
+   id="path6"
    inkscape:connector-curvature="0"
-   style="fill:#0078d7" />
-			<polygon
-   points="68,54.3 65.4,57 70.7,62.3 65.4,67.6 68,70.3 76,62.2 "
-   id="polygon44"
-   style="fill:#0078d7" />
-			<polygon
-   points="84,63.2 86.6,60.5 81.3,55.2 86.6,49.9 84,47.2 76,55.2 "
-   id="polygon46"
-   style="fill:#0078d7" />
-		</g>
-	</g>
-</g>
-<g
-   id="Layer_57"
-   transform="translate(-55.6,-38.3)">
-</g>
+   style="fill:#59b4d9" />
 </svg>
