@@ -53,7 +53,6 @@ Final result:
 
 <img src="./images/az-kubernetes-services.png" width="128">
 
-
 ## Contributing
 
 Do you want to extend the icons library or fix an issue? Here is how you can help:
