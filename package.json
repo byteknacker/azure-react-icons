@@ -1,7 +1,7 @@
 {
   "name": "react-az-icons",
   "version": "0.1.0",
-  "description": "React Components for Azure Cloud Icons with Resource Type Mapping",
+  "description": "React Components for Azure Cloud Icons",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -39,7 +39,8 @@
     "icons",
     "azure",
     "mapping",
-    "resource"
+    "resource",
+    "cloud"
   ],
   "author": "Johannes Wu",
   "license": "ISC",

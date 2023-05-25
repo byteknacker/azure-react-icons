@@ -5,3 +5,5 @@ svgs
 README.md
 src
 tsconfig.json
+.DS_Store
+.git
