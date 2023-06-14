@@ -3,7 +3,6 @@ const path = require('path');
 const glob = require('glob');
 const svgToComponent = require('./lib/svg2component');
 const optimizeSvg = require('./lib/svg-optimizer');
-
 const componentsDirName = 'components';
 
 module.exports = ({inputDir, outputDir, typescript, monochrome, namedExport}) => {
@@ -23,6 +22,7 @@ async function processIcons(filenames, outputDir, options) {
   );
 
   createIndexFile(componentNames, outputDir, options);
+  createResourceType2IconMapFile(outputDir, options);
 }
 
 async function processIcon(svgPath, outputDir, options) {
@@ -51,6 +51,8 @@ function createIndexFile(componentNames, outputDir, options) {
     componentNames.map(name =>
       `export {${options.namedExport ? '' : 'default as '}${name}} from './${componentsDirName}/${name}';`
     ).join('\n'),
+    '',
+    'export {default as ResourceType2IconMap } from \'./ResourceType2IconMap\';',
     '/* tslint:enable */',
     '/* eslint-enable */',
     ''
@@ -58,5 +60,15 @@ function createIndexFile(componentNames, outputDir, options) {
 
   const filename = 'index' + (options.isTypeScriptOutput ? '.ts' : '.js');
   fs.writeFileSync(path.join(outputDir, filename), code, 'utf-8');
+  console.log(`Created: ${filename}`);
+}
+
+
+function createResourceType2IconMapFile(outputDir, options) {
+  const resourceType2IconMapSourcePath = path.join(__dirname, 'lib', 'resourcetype2icon.js');
+  const filename = 'ResourceType2IconMap' + (options.isTypeScriptOutput ? '.ts' : '.js');
+  const destinationPath = path.join(outputDir, filename);
+
+  fs.copyFileSync(resourceType2IconMapSourcePath, destinationPath);
   console.log(`Created: ${filename}`);
 }
